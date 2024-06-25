@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindo 👋
 
 
-**PedroHS3301/PedroHS3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PedroHS3301** 
+- Estudando no alura
+- narsiszita
+- autoconfiante
 
-Here are some ideas to get you started:
+## Meus contatos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Gmail 📫: 00001124304341sp@al.educacao.sp.gov.br
 
+![mcqueen](https://github.com/PedroHS3301/PedroHS3301/assets/173794036/f4e89318-504b-4303-8dfa-61eb9d75b96a)
+
+![mario-guns](https://github.com/PedroHS3301/PedroHS3301/assets/173794036/b2e4df8f-445e-4e04-ba82-4931be2c767a)
