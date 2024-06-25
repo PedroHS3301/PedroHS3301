@@ -3,7 +3,6 @@
 
 **PedroHS3301** 
 - Estudando no alura
-- narsiszita
 - autoconfiante
 
 ## Meus contatos
